@@ -26,8 +26,6 @@ Show off your GitHub streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spindouken&theme=dark)](https://git.io/streak-stats)
 
 
-Contribution Graph
-
 ![](https://activity-graph.herokuapp.com/graph?username=spindouken&theme=github)
 
 Skills and Tools
