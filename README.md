@@ -32,5 +32,4 @@ custom header image
 
 ![](https://activity-graph.herokuapp.com/graph?username=spindouken&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spindouken&size_weight=0.5&count_weight=0.5)
 
