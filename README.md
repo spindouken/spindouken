@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Skills and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 custom header image
 ![Header](https://your-image-url.com/header.png)
 -->
@@ -23,14 +26,12 @@ custom header image
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spindouken&show_icons=true&theme=radical)
 
-Streak Stats
-Show off your GitHub streak:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spindouken&theme=dark)](https://git.io/streak-stats)
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=spindouken&theme=github)
 
-Skills and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=spindouken.spindouken)
