@@ -32,6 +32,3 @@ custom header image
 
 ![](https://activity-graph.herokuapp.com/graph?username=spindouken&theme=github)
 
-
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=spindouken.spindouken)
