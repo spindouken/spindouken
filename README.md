@@ -24,8 +24,6 @@ Animated Intro
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spindouken&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spindouken&layout=compact)
-
 
 Streak Stats
 Show off your GitHub streak:
