@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spindouken&hide=jupyter%20notebook)
 
 Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -30,4 +31,4 @@ custom header image
 
 ![](https://activity-graph.herokuapp.com/graph?username=spindouken&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spindouken&hide=jupyter%20notebook)
+
