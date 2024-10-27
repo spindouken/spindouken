@@ -32,5 +32,3 @@ Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=spindouken.spindouken)
-
-![Snake animation](https://github.com/spindouken/spindouken/blob/output/github-contribution-grid-snake.svg)
