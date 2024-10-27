@@ -32,4 +32,4 @@ custom header image
 
 ![](https://activity-graph.herokuapp.com/graph?username=spindouken&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidleitw&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spindouken&hide=jupyter%20notebook)
