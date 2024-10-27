@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 custom header image
 ![Header](https://your-image-url.com/header.png)
+-->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
