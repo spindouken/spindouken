@@ -20,7 +20,7 @@ custom header image
 Animated Intro
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spindouken&show_icons=true&theme=radical)
 
 Language Usage
