@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 custom header image
 ![Header](https://your-image-url.com/header.png)
 
-Animated Intro
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spindouken&show_icons=true&theme=radical)
