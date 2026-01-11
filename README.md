@@ -21,7 +21,6 @@ Skills and Tools
 custom header image
 ![Header](https://your-image-url.com/header.png)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spindouken&theme=dark)](https://git.io/streak-stats)
 
 -->
 
@@ -29,7 +28,7 @@ custom header image
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;Science+Lover;😄)](https://git.io/typing-svg)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spindouken&show_icons=true&theme=radical)
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=spindouken&theme=github)
 
